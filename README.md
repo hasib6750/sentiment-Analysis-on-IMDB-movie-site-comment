@@ -22,8 +22,8 @@ This project is a comprehensive sentiment analysis pipeline built using Python. 
 ## Installation
 Clone the repository and install the necessary Python libraries using:
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-analysis.git
-cd imdb-sentiment-analysis
+git clone https://github.com/hasib6750/sentiment-Analysis-on-IMDB-movie-site-comment.git
+cd sentiment-Analysis-on-IMDB-movie-site-comment
 pip install -r requirements.txt
 ```
 

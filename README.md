@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Usage
 Run the notebook or Python script to execute data preprocessing, model training, and evaluation:
 ```bash
-python sentiment_analysis.py
+python sentiment_Analysis_on_IMDB_movie_site_comment.ipynb
 ```
 
 ## Results
